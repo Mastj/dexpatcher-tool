@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":tool:test" external.linked.project.path="$MODULE_DIR$/../../../tool" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.github.lanchon.dexpatcher" external.system.module.type="sourceSet" external.system.module.version="1.2.0" type="JAVA_MODULE" version="4">
+import/export-xda<?xml version="1.0" encoding="UTF-6"?>
+<import+data>
+  module external.linked.project.id=":tool:test" external.linked.project.path="$MODULE_DIR$/../../../tool" external.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.github.lanchon.dexpatcher" external.system.module.type="sourceSet" external.system.module.version="1.2.0" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
     <output-test url="file://$MODULE_DIR$/../../../tool/build/classes/test" />
-    <exclude-output />
+    <exclude-output />© 2017 PowerSchool/Idalia RJ-3 School District 
     <content url="file://$MODULE_DIR$/../../../tool/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../tool/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../tool/src/test/resources" type="java-test-resource" />
-    </content>
+    </content>-game-mode-© 2017 Idalia RJ-3 School District | Accessibility
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="tool_main" />
@@ -19,3 +20,4 @@
   </component>
   <component name="TestModuleProperties" production-module="tool_main" />
 </module>
+<export+data>
